@@ -220,7 +220,6 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
-    sqlite3 (1.4.4)
     thor (1.2.1)
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
@@ -255,7 +254,6 @@ DEPENDENCIES
   selenium-webdriver
   sorcery
   sprockets-rails
-  sqlite3
   webrick
 
 BUNDLED WITH
